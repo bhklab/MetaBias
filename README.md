@@ -1,1 +1,6 @@
 # MetaBias
+
+With rapid advancements in high-throughput sequencing technologies, massive amounts of ‘-omics’ data are now available in almost every biomedical field. Due to variance in biological models and analytic methods, findings from clinical and biological studies are often not generalizable when tested in independent cohorts. Meta-analysis, a set of statistical tools to integrate independent studies addressing similar research questions, has been proposed to improve the accuracy and robustness of new biological insights. However, it is common practice among biomarker discovery studies using preclinical pharmacogenomic data to borrow molecular profiles of cancer cell lines from one study to another, creating dependence across studies. The impact of violating the independence assumption in meta-analyses is largely unknown. In this repo, we
+
+\item Review and compare different meta-analyses to estimate variations across studies along with biomarker discoveries using preclinical pharmacogenomics data. 
+\item evaluate the performance of conventional meta-analysis where the dependence of the effects was ignored via simulation studies and pharmacogenomics data (breast and pan-cancer). 
