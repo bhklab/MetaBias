@@ -1,8 +1,8 @@
-# The impact of violating the independence assumption in meta-analysis on biomarker discovery
+## The impact of violating the independence assumption in meta-analysis on biomarker discovery
 
 In this study, we (1) review and compare different meta-analyses to estimate variations across studies along with biomarker discoveries using preclinical pharmacogenomics data, and (2) evaluate the performance of conventional meta-analysis where the dependence of the effects was ignored via simulation studies and pharmacogenomics data (breast and pan-cancer). 
 
-## Data
+### Data
 
 We used transcriptomic (RNA-Sequencing and gene expression microarray) and drug response data from pharmacogenomic cancer cell line sensitivity screenings, including 
 
